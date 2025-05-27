@@ -60,9 +60,11 @@ Here’s a **2-month roadmap** focused on improving your **vocabulary and gramma
 
 ### 🧱 Grammar:
 
-* Day 1: Sentence Types: simple vs. compound
-* Day 2: Complex sentences with conjunctions
-* …
+| Nhóm thì    | Tên thì                                                                                           |
+| ----------- | ------------------------------------------------------------------------------------------------- |
+| ⏳ Hiện tại  | 1. Present Simple<br>2. Present Continuous<br>3. Present Perfect<br>4. Present Perfect Continuous |
+| ⌛ Quá khứ   | 5. Past Simple<br>6. Past Continuous<br>7. Past Perfect<br>8. Past Perfect Continuous             |
+| ⏭ Tương lai | 9. Future Simple<br>10. Future Continuous<br>11. Future Perfect<br>12. Future Perfect Continuous  |
 
 ---
 
